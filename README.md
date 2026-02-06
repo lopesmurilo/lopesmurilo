@@ -96,7 +96,7 @@ box-shadow:
 <br>
 
 <!-- RODAPÉ ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#8B00000&height=120&section=footer"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=333;555;666;777;999" />
 
