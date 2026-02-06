@@ -84,11 +84,11 @@ DISCIPLINE <span style="color:#ff0000;">OVER</span> EVERYTHING
 
 <!-- CONTATO -->
 <p>
-<a href="https://www.instagram.com/miguell.015?igsh=NjJ3aTQwcjdyejJq&utm_source=qr">
+<a href="">
 <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ff0000"/>
 </a>
 
-<a href="mailto:miguelsoaresmachado.mm@gmail.com">
+<a href="murilo.sillopes.mm@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
 </a>
 </p>
