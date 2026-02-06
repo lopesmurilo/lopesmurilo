@@ -70,10 +70,10 @@ DISCIPLINE <span style="color:#ff0000;">OVER</span> EVERYTHING
 
 <!-- STATUS -->
 <p>
-<img src="https://img.shields.io/badge/MODE-FREAK-ff0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-ff0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/DISCIPLINE-100%25-ff0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-100%25-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <br>
