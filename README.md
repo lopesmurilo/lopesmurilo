@@ -72,7 +72,7 @@ box-shadow:
 <p>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/-25-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 </p>
 
