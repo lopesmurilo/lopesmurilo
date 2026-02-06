@@ -85,11 +85,11 @@ box-shadow:
 <!-- CONTATO -->
 <p>
 <a href="">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=#8B0000"/>
 </a>
 
 <a href="murilo.sillopes.mm@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=#8B0000"/>
 </a>
 </p>
 
@@ -98,10 +98,10 @@ box-shadow:
 <!-- RODAPÉ ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#8B00000&height=120&section=footer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=333;555;666;777;999" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=#8B0000&center=true&vCenter=true&width=600&lines=333;555;666;777;999" />
 
 
 </div>
 
 <!-- BARRA NEON FINAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:000000&height=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:#8B0000,100:000000&height=6" width="100%"/>
