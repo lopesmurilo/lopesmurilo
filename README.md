@@ -52,7 +52,7 @@ box-shadow:
 <br>
 
 <h1>
-DISCIPLINE <span style="color:#ff0000;">OVER</span> EVERYTHING
+ <span style="color:#ff0000;"></span> 
 </h1>
 
 <br>
@@ -72,7 +72,7 @@ DISCIPLINE <span style="color:#ff0000;">OVER</span> EVERYTHING
 <p>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/-100%25-ff0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-25-ff0000?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-ff0000?style=for-the-badge&labelColor=000000"/>
 </p>
 
