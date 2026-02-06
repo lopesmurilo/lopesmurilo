@@ -78,11 +78,11 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 
 <!-- CONTATO -->
 <p>
-<a href=
+<a href="">
 <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=A020F0"/>
 </a>
 
-<a href=
+<a href="">
 <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=A020F0"/>
 </a>
 </p>
