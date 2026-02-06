@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
 
 <!-- BANNER (GIF NOVO) -->
-<img src="https://media1.tenor.com/m/T-9D0oI23HEAAAAd/thiagoveigh-veigh.gif" width="100%"/>
-
+<div class="tenor-gif-embed" data-postid="16738740347382122092" data-share-method="host" data-aspect-ratio="0.858108" data-width="100%"><a href="https://tenor.com/view/epsteinstrump-trump-epstein-gif-16738740347382122092">Epsteinstrump Trump Epstein GIF</a>from <a href="https://tenor.com/search/epsteinstrump-gifs">Epsteinstrump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div align="center">
 
 <!-- TITULO -->
