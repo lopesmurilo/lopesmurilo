@@ -57,7 +57,7 @@ box-shadow:
 
 <br>
 
-<h2>⚔️ TECH ARSENAL ⚔️</h2>
+<h2>essa bitch não quer amor</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js&theme=dark"/>
