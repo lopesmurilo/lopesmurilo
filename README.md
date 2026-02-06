@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
 
 <!-- BANNER (GIF NOVO) -->
-href="https://tenor.com/view/epsteinstrump-trump-epstein-gif-16738740347382122092">Epsteinstrump Trump Epstein GIF</a>from <a href="https://tenor.com/search/epsteinstrump-gifs">Epsteinstrump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+href="https://tenor.com/search/epsteinstrump-gifs">Epsteinstrump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- TITULO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON+💉" />
