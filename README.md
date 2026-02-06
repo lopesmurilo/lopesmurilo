@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
 
 <!-- BANNER (GIF NOVO) -->
-<div class="tenor-gif-embed" data-postid="12032700145972614250" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/dance-old-man-dancing-disco-stepping-step-gif-12032700145972614250">Dance Old Man Dancing GIF</a>from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/dance-old-man-dancing-disco-stepping-step-gif-12032700145972614250">Dance Old Man Dancing GIF</a>from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- TITULO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON+💉" />
