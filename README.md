@@ -5,11 +5,11 @@
 <a href="https://tenor.com/view/dance-old-man-dancing-disco-stepping-step-gif-12032700145972614250">Dance Old Man Dancing GIF</a>from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- TITULO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON+💉" />
+
 
 <h3>
-My name is Murilo and I'm a 
-<b><span style="color:#A020F0;">BIG LOVER OF OLD SCHOOL GYM</span></b>
+
+<b><span style="color:#A020F0;">ntj</span></b>
 </h3>
 
 <br><br>
@@ -55,7 +55,7 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 
 <br>
 
-<h2>⚔️ TECH ARSENAL ⚔️</h2>
+<h2>sujas</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js&theme=dark"/>
@@ -92,7 +92,6 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 <!-- RODAPÉ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=ENTER+THE+FREAK+SEASON;DISCIPLINE+BUILDS+LEGENDS;SEE+YOU+AT+THE+TOP"/>
 
 </div>
 
