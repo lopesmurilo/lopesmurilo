@@ -67,10 +67,7 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 
 <!-- STATUS -->
 <p>
-<img src="https://img.shields.io/badge/A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/100%25-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ACTIVE-A020F0?style=for-the-badge&labelColor=000000"/>
+
 </p>
 
 <br><br>
