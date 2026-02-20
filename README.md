@@ -49,7 +49,7 @@ box-shadow:
 <br>
 
 <h1>
-DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
+SAIBA <span style="color:#A020F0;">ESCOLHER</span> O CERTO
 </h1>
 
 <br>
