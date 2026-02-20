@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
 
 <!-- BANNER (GIF NOVO) -->
-<a href="https://tenor.com/view/dance-old-man-dancing-disco-stepping-step-gif-12032700145972614250">Dance Old Man Dancing GIF</a>from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- TITULO -->
 
@@ -68,10 +67,10 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 
 <!-- STATUS -->
 <p>
-<img src="https://img.shields.io/badge/MODE-FREAK-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/DISCIPLINE-100%25-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-A020F0?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/A020F0?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/A020F0?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/100%25-A020F0?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ACTIVE-A020F0?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <br><br>
